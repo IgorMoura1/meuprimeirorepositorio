@@ -1,0 +1,20 @@
+Consultar configuração de usuário
+git config --global user.name
+git config --global user.email
+
+configurar novo usuário
+git config --global user.name 'IgorMoura1'
+git config --global user.email 'meu email'
+
+como remover usuarios
+
+git config --global --unset user.name 'seu nome de usuário'
+git config --global --unset user.email 'seu email aqui'
+
+A.C.P
+
+git add
+
+git commit -m 'nome do versionamento'
+
+git push
